@@ -18,6 +18,7 @@ Tipo	Descrição
 Entrada (input)	Dados coletados por sensores, APIs climáticas e inserção manual
 Origem dos dados	Sensores IoT, satélites, APIs meteorológicas, usuários
 Tipo de dados	Estruturados (tabelas de clima) e não estruturados (imagens de satélite)
+
 2. Processamento (O Sistema)
 Fluxo do sistema
 
