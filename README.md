@@ -72,15 +72,19 @@ Valor de negócio
 [PROCESSAMENTO]
 (Coleta → Armazenamento → IA → Análise)
         ↓
+        
 [INFORMAÇÃO]
 (Relatórios, dashboards, alertas)
         ↓
+        
 [CONHECIMENTO]
 (Padrões, tendências, previsões)
         ↓
+        
 [DECISÃO]
 (Plantio, irrigação, colheita)
         ↓
+        
 [VALOR]
 (Eficiência, redução de custos, lucro)
 
