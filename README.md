@@ -39,6 +39,7 @@ Sistema: Plataforma AgroSmart
 Processos: análise de dados agrícolas
 Banco de dados: armazenamento de dados históricos e em tempo real
 Fluxo da informação: dados → processamento → insights
+
 3. Informação e Conhecimento (A Transformação)
 Descobertas geradas
 Padrões: melhor época de plantio
@@ -49,6 +50,7 @@ Indica quando plantar e colher
 Sugere quantidade ideal de irrigação
 Reduz desperdício de recursos
 Aumenta produtividade
+
 4. Decisão e Valor (A Decisão)
 Decisões possíveis
 Quando plantar ou colher
@@ -60,6 +62,7 @@ Valor de negócio
 ✅ Redução de custos
 ✅ Personalização para cada plantação
 ✅ Inovação no agronegócio
+
 5. Representação (Mapa Conceitual)
 [DADOS]
 (Clima, solo, sensores, mercado)
@@ -78,6 +81,7 @@ Valor de negócio
         ↓
 [VALOR]
 (Eficiência, redução de custos, lucro)
+
 Elementos do Sistema no Mapa
 Entrada: sensores, APIs, usuários
 Processamento: algoritmos e banco de dados
