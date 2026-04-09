@@ -68,6 +68,7 @@ Valor de negócio
 [DADOS]
 (Clima, solo, sensores, mercado)
         ↓
+   
 [PROCESSAMENTO]
 (Coleta → Armazenamento → IA → Análise)
         ↓
