@@ -1,4 +1,4 @@
-# -Cria-o_de_uma_StartUp_baseada_em_Sistemas_de_Informa-o
+# Criacao-de-uma-StartUp-baseada-em-Sistemas-de-Informacao
 
 Startup: AgroSmart – Inteligência de Dados para Pequenos Produtores
 1. Problema e Dados (A Escolha do Caos)
